@@ -1,0 +1,3 @@
+yoxdu
+	node_modules
+	vendor
